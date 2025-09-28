@@ -1,0 +1,5 @@
+classes.PersonAPI createPerson
+string:John Walker
+integer:10
+boolean:true
+END

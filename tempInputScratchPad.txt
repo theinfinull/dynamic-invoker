@@ -1,0 +1,18 @@
+classes.PersonAPI createPerson
+string:"John Walker"
+integer:10
+END
+
+// boolean value included
+classes.PersonAPI createPerson
+string:"John Walker"
+integer:10
+boolean:true
+END
+
+// without bracket
+classes.PersonAPI createPerson
+string:John Walker
+integer:10
+boolean:true
+END
